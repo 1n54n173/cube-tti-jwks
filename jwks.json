@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "cube-tti-key-1",
+      "n": "qE-27CmePmsUHqQuVGgf27_qAix9kjaVFKx7_Z3yCSQ4WIu251EDuQ5KQopY6tFUB_4RSZqFgNN7K76cIZflVFz0MiSSy4j6gLehFw1FxydaM6WA_L0eqlBmnGP5d0rCwed2hkjauT12M5nMfpFeTrjwmQ81VhUnqIB9gG3TLR8eDgoDAzmv4XikXE-tE5Fpyd_7rCiLnHvyV1QXpLUQKhEeHpfaSmXJ9imm1pTD7LsuQqeEqBvWRZWRTPm2g0QkrUvO1UqRFOJ36_3DPvlpL0rv2EoRqLSmRt0MZF20mOMCGWoS8fmNHbjLyM_h4oa_o6v-zknRq2YHOnAeFGftLw",
+      "e": "AQAB"
+    }
+  ]
+}
